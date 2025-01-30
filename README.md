@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A construção de um e-book pode ser confusa e demorada e ainda não ficar atrativo aos consumidores. Com a IA temos insights de tópicos, organização de ideias, sites ee edição de imagem e cadastros necessários.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatbot/chat GPT e Gemini para organização de ideias e tópicos, além de insights de meios de divulgação.
+copilot e designer para geração de imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Há muitos anos atrás trabalhei com pintura facial e senti falta de um ebook prático com imagens e passo a passo. Questionei as IAs generativas sobre tópicos, organização e público. utilizei fotos próprias e imagens IA para montagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Por enquanto e-book ainda não está 100% concluído para publicação.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+```hoje as IAs estão tão avançadas que algumas imagens parecem reais e é fácil se condundir. Importante lembrarmos de nunca nos compararmos nem um com oa outros e muito menos com resultados como da IA nas pinturas e tudo que fazemos. A comparação deve ser só com a gnt mesmo.
 
 ### Exemplos e Insigths
 
